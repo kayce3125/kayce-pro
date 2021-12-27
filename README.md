@@ -1,4 +1,3 @@
-![PicsArt_07-24-08.59.15.jpg](https://user-images.githubusercontent.com/52023076/126899282-7b7d78f9-38a9-480f-b8d9-908630405acc.jpg)
 
 # TOOL ABOUT
 ```
@@ -14,7 +13,7 @@
 * apt install git -y
 * apt install python2 -y
 * rm -rf Abm-Pro
-* git clone https://github.com/Tech-abm/Abm-Pro
+* git clone https://github.com/kayce3125/kayce-pro.git
 * cd Abm-Pro
 * pip2 install requests
 * pip2 install mechanize
