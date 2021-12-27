@@ -12,9 +12,9 @@
 * apt upgrade
 * apt install git -y
 * apt install python2 -y
-* rm -rf Abm-Pro
+* rm -rf kayce-pro
 * git clone https://github.com/kayce3125/kayce-pro.git
-* cd Abm-Pro
+* cd kayce-pro
 * pip2 install requests
 * pip2 install mechanize
 * python2 install.lxml
